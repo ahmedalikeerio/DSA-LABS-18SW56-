@@ -144,7 +144,7 @@ class MyLinkedList{
 	}
 }
 
-public class SecondTask{
+public class Task2{
 	public static void main(String[] args) {
 		MyLinkedList list = new MyLinkedList();
 		list.insert(56);
